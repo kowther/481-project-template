@@ -1,10 +1,14 @@
-# CPSC 481 - Tutorial [X] - Group [Y]
+# CPSC 481 - Tutorial 02 - Group 6
 
-## Project Title
+## Field Guide for a Park
 
-* Title
-* Team Members (names, IDs)
-* Tutorial Number and TA
+* Title: Field Guide for a Park
+* Team Members:
+  * Lisa Hynes
+  * Kowther Hassan
+  * Stephanie Ross
+* Tutorial Number: 02
+* TA: Kody Dillman
 
 ## Project Idea
 
