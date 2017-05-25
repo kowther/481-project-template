@@ -1,11 +1,11 @@
 # CPSC 481 - Tutorial 02 - Group 6
 
-## Field Guide for a Park
+## Wild for Alberta Wildflowers
 
-* Title: Field Guide for a Park
+* Title: Wild for Alberta Wildflowers
 * Team Members:
   * Lisa Hynes
-  * Kowther Hassan
+  * Kowther Hassan - 00335603
   * Stephanie Ross
 * Tutorial Number: 02
 * TA: Kody Dillman
