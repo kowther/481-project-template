@@ -6,7 +6,7 @@
 * Team Members:
   * Lisa Hynes - 30011515
   * Kowther Hassan - 00335603
-  * Stephanie Ross
+  * Stephanie Ross - 10105059
 * Tutorial Number: 02
 * TA: Kody Dillman
 
