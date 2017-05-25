@@ -1,10 +1,10 @@
-# CPSC 481 - Tutorial 02 - Group 6
+ - m# CPSC 481 - Tutorial 02 - Group 6
 
 ## Wild for Alberta Wildflowers
 
 * Title: Wild for Alberta Wildflowers
 * Team Members:
-  * Lisa Hynes
+  * Lisa Hynes - 30011515
   * Kowther Hassan - 00335603
   * Stephanie Ross
 * Tutorial Number: 02
