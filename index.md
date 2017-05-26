@@ -12,13 +12,12 @@
 
 ## Project Idea
 
-![](http://lorempixel.com/1200/300/ "Motivational image")
+![](https://kowther.github.io/FieldGuide-481/wildflower_small.png)
 
-_[summary -- e.g. from P1]_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat ex vitae metus dapibus, vel auctor mi tincidunt. Vestibulum vitae rhoncus est. Curabitur molestie nunc in velit lobortis, mollis pellentesque lacus interdum. Aliquam consectetur malesuada dolor quis lacinia. Nullam dictum felis lectus, tincidunt auctor orci efficitur sed. In ac urna at leo pretium varius at id orci. Mauris sed tincidunt turpis, eget malesuada urna. In consectetur, purus et aliquet tincidunt, orci quam eleifend tellus, vel convallis sem odio a nunc. Pellentesque sed facilisis risus, ut rhoncus nibh. Sed ut ipsum condimentum, faucibus velit id, ornare arcu. Suspendisse at velit scelerisque, cursus ante sit amet, porttitor ipsum. Nulla eu suscipit sapien. Cras ullamcorper cursus mi. Proin blandit luctus enim, eu tincidunt libero dapibus eu. Mauris ut finibus turpis. Etiam nisi erat, malesuada ut velit quis, viverra feugiat augue.
-
-_[summary image -- sketch or picture]_
-
-![](http://lorempixel.com/550/450 "First of two kittens")
-![](http://lorempixel.com/550/450 "Second of two kittens")
-
-Vestibulum augue mauris, interdum non auctor id, cursus eget metus. Praesent laoreet arcu a ornare placerat. Donec turpis mauris, luctus eu sollicitudin eu, fringilla eget purus. Curabitur ut libero sit amet risus tempor rutrum vitae sit amet diam. Fusce efficitur dui ut purus fringilla gravida. Etiam gravida, quam eget fermentum vestibulum, dui libero scelerisque lectus, eu ornare lacus tortor at neque. Praesent volutpat pretium libero, in ornare nisi ultrices quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse in sollicitudin nibh, quis pellentesque elit. Cras imperdiet pellentesque odio, sed hendrerit tortor vehicula sed. Etiam quis tempor erat. Sed vel leo ut magna ultrices auctor quis id risus.
+A guide to identify, learn and share Alberta’s 1000+ species of wildflowers. Enjoy all the familiarities of a traditional paper field guide, with more images and species information. Foster a community via the app, where users can share sightings, images and connect with each other.
+ 
+Plants can be identified by either searching key plant characteristics (color, petal shape, etc) and location or by using our automatic recognition system. By utilizing our image recognition with our innovative scent recognition, plants can be identified in a fraction of the time. A user will be able to easily search through images to find a wildflower and any information related to it that they are looking for. Pictures taken and information about a plant’s location/characteristics can be shared with others by pinpointing sightings on a global map. This is a great feature for finding rarer species. The app also includes a glossary of terms, maps and help menu.
+ 
+This app is targeted to anyone interested in identifying wildflowers in Alberta. The text descriptions are easy enough for a beginner to understand but with the option to expand for more detailed scientific information for more advanced users.
+ 
+Take this app out on an evening stroll in a nearby field or on a hike in one of Alberta’s national parks. With internet connection, you can share and update sighting locations on a map in real time, and use our automatic recognition tools. Or use the app offline with the searching key tool. People of all ages and backgrounds can enjoy and learn about Alberta’s stunning collection of wildflowers with this app.  
