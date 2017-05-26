@@ -1,8 +1,8 @@
  - CPSC 481 - Tutorial 02 - Group 6
 
-## Wild for Alberta Wildflowers
+## Wild for Alberta Wildflowers - A Field Guide App
 
-* Title: Wild for Alberta Wildflowers
+* 
 * Team Members:
   * Lisa Hynes - 30011515
   * Kowther Hassan - 00335603
