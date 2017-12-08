@@ -3,9 +3,9 @@
 ## Wild for Alberta Wildflowers - A Field Guide App
 
 * Team Members:
-  * Lisa Hynes - 30011515
-  * Kowther Hassan - 00335603
-  * Stephanie Ross - 10105059
+  * Lisa Hynes
+  * Kowther Hassan 
+  * Stephanie Ross
 * Tutorial Number: 02
 * TA: Kody Dillman
 
